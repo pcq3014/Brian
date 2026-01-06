@@ -248,4 +248,4 @@ void display(Queue *q) {
         printf("  [%d] Data: %d | Priority: %d\n", i, q->data[i].data, q->data[i].priority);
     }
 }
-Cauhoi duclanh123
+Cauhoi Brian ten that la gi
